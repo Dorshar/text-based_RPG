@@ -1,0 +1,25 @@
+Objectives for proof of concept.
+
+M1:
+
+-create a userface in chrome
+  -Text box
+  -title
+  
+-Basic user interaction
+  -on load the text box will say welcome
+  -when the user types hello the text box will reply with how are you
+
+
+-Setup the webpage on my linux machine 
+  -research running a webpage on a linux machine
+
+
+Future plans:
+
+-Create a user 
+  -for now just a user name
+  -Figure out how to save the user information   Database? session cookie?
+  -Use local storage: http://www.w3schools.com/html/html5_webstorage.asp
+  
+
