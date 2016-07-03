@@ -8,6 +8,7 @@ M1:
   
 -Basic user interaction
   -on load the text box will say welcome
+  -pressing "enter" will trigger the game to read the users input and decide what to do
   -when the user types hello the text box will reply with how are you
 
 
@@ -17,9 +18,13 @@ M1:
 
 Future plans:
 
+
+
 -Create a user 
   -for now just a user name
   -Figure out how to save the user information   Database? session cookie?
   -Use local storage: http://www.w3schools.com/html/html5_webstorage.asp
+  
+-Research basic ai and random generators
   
 
